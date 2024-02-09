@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Miaplicacion</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="tv1">Sound Cleaner</string>
+    <string name="tv3">¿Estas listo para iniciar una nueva experiencia?</string>
+    <string name="tv4">¡¡ Elije la mejor intencidad para limpiar los altavoces para tu dispositivo !!</string>
+    <string name="tv5">(Recomendado)</string>
+    <string name="BotonAnterior">Anterior</string>
+    <string name="tv2">Regresar</string>
+    <string name="tv6">¿ Con qué frecuencias deseas trabajar ? </string>
+    <string name="tv7"> Recomencaciones </string>
+    <string name="tv8">-Pon tu teléfono con la pantalla hacia abajo, antes de comenzar
+    -Sube al volumen al máximo</string>
+    <string name="Botonbajo">Baja</string>
+    <string name="salirbajo"> Atrás  </string>
+    <string name="Botonmedio">Media</string>
+    <string name="salirmedia">Atrás</string>
+    <string name="Botonalto">Alta</string>
+    <string name="saliralto">Atrás</string>
+
+    <string name="SoundPool">60HZ</string>
+    <string name="MediaPlayer">100HZ</string>
+    <string name="MediaPlay">200HZ</string>
+
+    <string name="SoundP">300HZ</string>
+    <string name="MediaP">400HZ</string>
+
+    <string name="Medi">1000HZ</string>
+
+    <string name="sali">Salir</string>
+</resources>
